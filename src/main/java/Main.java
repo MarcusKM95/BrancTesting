@@ -10,6 +10,8 @@ public class Main {
         cat1.mood(false);
         dog1.mood(false);
         cat1.mood(true);
+        dog1.jump(1.4);
+        cat1.jump(1.2);
 
     }
 }
